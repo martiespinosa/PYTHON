@@ -1,0 +1,9 @@
+setup.py
+Paquete_distribuible_de_C_lculos.egg-info/PKG-INFO
+Paquete_distribuible_de_C_lculos.egg-info/SOURCES.txt
+Paquete_distribuible_de_C_lculos.egg-info/dependency_links.txt
+Paquete_distribuible_de_C_lculos.egg-info/top_level.txt
+paquete/__init__.py
+paquete/funciones_matematicas.py
+paquete/operaciones_basicas/__init__.py
+paquete/operaciones_basicas/suma_resta.py
